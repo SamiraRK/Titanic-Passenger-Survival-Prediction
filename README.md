@@ -10,3 +10,12 @@ The challenge involves predicting the survival of passengers on the Titanic. The
 
 **2 - Data Wrangling, Preparation and Cleansing  :**
 The data preprocessing steps include handling missing values, encoding categorical variables, and feature scaling. For detailed code, please check my Kaggle and GitHub repositories.
+
+**3 - Exploratory Data Analysis  :**
+  **Survival Rate:** In the training set, only 350 out of 891 passengers (38.4%) survived.
+  **Sex:** There were more men than women on the ship, but women had a significantly higher survival rate. Approximately 75% of women survived, compared to around 19% of men.
+  **Pclass:** Passengers in Pclass 1 had the highest survival rate. Survival rates were approximately 63% for Pclass 1, 48% for Pclass 2, and 25% for Pclass 3.
+  **Combined Analysis:** Survival rates varied significantly based on the combination of sex and class. For instance, women in upper-class (Pclass 1) had a survival rate of about 95-96%, whereas lower-class women had a higher survival rate compared to upper-class men.
+  **Feature Correlations:**
+    **~ Sex:** Positive correlation with survival (Pearson’s coefficient of 0.54).
+    **~ Pclass:** Negative correlation with survival (Pearson’s coefficient of -0.34).
