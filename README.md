@@ -23,3 +23,14 @@ The data preprocessing steps include handling missing values, encoding categoric
   **Feature Correlations:** <br>
     **Sex  :** Positive correlation with survival (Pearson’s coefficient of 0.54). <br>
     **Pclass  :** Negative correlation with survival (Pearson’s coefficient of -0.34). <br>
+
+**4 - Data Acquisition  :**
+
+**5 - Model, Prediction and Solution  :**
+The models selected for this challenge include XGBoost
+
+
+## **Findings**
+Passengers were more likely to survive if they had:
+-  An upper-class ticket (Pclass 1).
+-  Were female.
