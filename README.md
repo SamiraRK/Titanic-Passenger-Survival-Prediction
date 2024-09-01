@@ -21,8 +21,8 @@ The data preprocessing steps include handling missing values, encoding categoric
   **Combined Analysis:** Survival rates varied significantly based on the combination of sex and class. For instance, women in upper-class (Pclass 1) had a survival rate of about 95-96%, whereas lower-class women had a higher survival rate compared to upper-class men.<br>
   
   **Feature Correlations:** <br>
-    **Sex  :** Positive correlation with survival (Pearson’s coefficient of 0.54). <br>
-    **Pclass  :** Negative correlation with survival (Pearson’s coefficient of -0.34). <br>
+-  **Sex  :** Positive correlation with survival (Pearson’s coefficient of 0.54). <br>
+-  **Pclass  :** Negative correlation with survival (Pearson’s coefficient of -0.34). <br>
 
 **4 - Data Acquisition  :**
 
