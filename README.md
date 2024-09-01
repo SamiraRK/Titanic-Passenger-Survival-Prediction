@@ -6,6 +6,6 @@ The goal of this challenge is to predict the survival of Titanic passengers base
 ## **WorkFlow**
 
 **1 - Problem Definition  :** 
-The challenge involves predicting the survival of passengers on the Titanic. The target variable, "Survived," indicates whether a passenger survived (1) or did not survive (0).
+### The challenge involves predicting the survival of passengers on the Titanic. The target variable, "Survived," indicates whether a passenger survived (1) or did not survive (0).
 
 
