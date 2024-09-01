@@ -16,6 +16,6 @@ The data preprocessing steps include handling missing values, encoding categoric
   **Sex:** There were more men than women on the ship, but women had a significantly higher survival rate. Approximately 75% of women survived, compared to around 19% of men.<br>
   **Pclass:** Passengers in Pclass 1 had the highest survival rate. Survival rates were approximately 63% for Pclass 1, 48% for Pclass 2, and 25% for Pclass 3.<br>
   **Combined Analysis:** Survival rates varied significantly based on the combination of sex and class. For instance, women in upper-class (Pclass 1) had a survival rate of about 95-96%, whereas lower-class women had a higher survival rate compared to upper-class men.<br>
-  **Feature Correlations:**<br>
+  **Feature Correlations:** <br>
     **~ Sex:** Positive correlation with survival (Pearson’s coefficient of 0.54).<br>
     **~ Pclass:** Negative correlation with survival (Pearson’s coefficient of -0.34).<br>
